@@ -1,7 +1,6 @@
 miyozi = '山田'
 namae = '太郎'
-nenrei = 85
+nenrei = 25
 
-name = miyozi + namae
 
-puts name + 'です。' + nenrei.to_s + '歳です。'
+puts miyozi + namae + 'です。' + nenrei.to_s + '歳です。'
